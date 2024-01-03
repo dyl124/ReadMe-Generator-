@@ -1,7 +1,7 @@
 # ReadMe Generator
 
 ## Description
-Cli interface tool to create simple, easy and aesthetic readmes for students and coders.
+CLI interface tool to create simple, easy and aesthetic readmes for students and coders.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,10 +10,10 @@ Cli interface tool to create simple, easy and aesthetic readmes for students and
 - [Questions](#questions)
 
 ## Installation
-Clone this repository, npm install and follow prompts in terminal by running 'node index.js'
+Clone this repository, npm install and follow prompts in terminal by running 'node index.js'.
 
 ## Usage
-For students and coders who want to create fast and simple readmes.
+for students and coders who want to create simple, easy and functional readMes.
 
 ## License
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
@@ -27,4 +27,4 @@ For questions about this project, please contact [dyl124](https://github.com/dyl
 
 
 ## Screenshots
-screenshot.png
+![Alt Text](./screenshots/screenshot.png)
