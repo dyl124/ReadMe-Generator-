@@ -87,7 +87,7 @@ For questions about this project, please contact [${results.github}](https://git
 ${results.tests}
 
 ## Screenshots
-${results.screenshots}`;
+./screenshots/${results.screenshots}`;
 }
 
 function displayDirectory(directoryPath) {
