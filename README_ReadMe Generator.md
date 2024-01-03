@@ -28,3 +28,4 @@ For questions about this project, please contact [dyl124](https://github.com/dyl
 
 ## Screenshots
 ![Alt Text](./screenshots/screenshot.png)
+<img width="677" alt="image" src="https://github.com/dyl124/ReadMe-Generator-/assets/142150017/810c7c78-7189-4ab7-95f6-cfa7eeb07236">
